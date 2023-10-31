@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavkulkarni33" alt="pranavkulkarni33" /></a> </p>
 
-- 🔭 I’m currently working on [Frontend Engine](http://frontend-engine.com)
+- 🔭 I’m currently working on [NutriFit]([http://frontend-engine.com](https://github.com/DWN013/EECS-3311-Group-Whiskey))
 
-- 🌱 I’m currently learning **Angular,DBMS**
+- 🌱 I’m currently learning **DSA,DBMS, DP**
 
 - 💬 Ask me about **Java, Python, Data Structures and Algorithms**
 
