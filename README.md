@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **kulkarnipranavmahesh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-zZ2rwMZrWv6d5qYffJhezurkoSBu3_V/view?usp=drive_link](https://drive.google.com/file/d/1-zZ2rwMZrWv6d5qYffJhezurkoSBu3_V/view?usp=drive_link)
+- 📄 Know about my experiences [Portfolio Website](https://pranavfolio.com)
 
 - ⚡ Fun fact **I speak four languages: English, German, Hindi, and Marathi.**
 
